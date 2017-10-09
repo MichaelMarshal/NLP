@@ -9,7 +9,8 @@ In three simple steps You can create a similar application of your choice:
 	Continue onto Ideapro
 	Create an Application
 	Fill in the form for SMS API and send for approval
-	For Refference check this Youtube Video : [IdeaPro - App provisioning](https://www.youtube.com/watch?v=zpgOrigLA70&t=457s)
+	For Refference check this Youtube Video : 
+[IdeaPro - App provisioning](https://www.youtube.com/watch?v=zpgOrigLA70&t=457s)
 	
 2.Creating Google console Project For NLP
 
