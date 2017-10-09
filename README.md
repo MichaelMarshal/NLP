@@ -12,6 +12,7 @@ In three simple steps You can create a similar application of your choice:
 	For Refference check this Youtube Video : https://www.youtube.com/watch?v=zpgOrigLA70&t=457s
 	
 2.Creating Google console Project For NLP
+
 	Visit https://console.cloud.google.com
 	Login to your Gmail
 	Sign up for free trial
@@ -33,5 +34,5 @@ In three simple steps You can create a similar application of your choice:
 	
 This is the Simple application Mashup of Ideamart SMS API and NLP of google 
 
-										# Happy Coding
+# Happy Coding
 	
