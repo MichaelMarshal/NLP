@@ -35,5 +35,14 @@ In three simple steps You can create a similar application of your choice:
 	
 This is the Simple application Mashup of Ideamart SMS API and NLP of google 
 
+If you have any questions or doubts regarding Ideamart Application you can contact ideamart through the following ways
+
+https://www.facebook.com/groups/ideamartlk/
+
+https://twitter.com/ideamartLK
+
+https://github.com/ideamart/
+
+
 # Happy Coding
 	
