@@ -1,6 +1,7 @@
 # Natural Language API integrated with Ideamart SMS API 
 
 Scenario:
+	
 	Alberto is a Restaurant owner who wants to get a feedback from the customers to increase his sales and quality. He decided to contact ideamart team to develop an Ideamart Application plugged with google Natural Language API. With the feedback he grasped he changed his way according to customer satisfaction which increased his revenue by a tremendous amount.
 
 In three simple steps You also can create a similar application :
