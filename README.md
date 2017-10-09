@@ -1,7 +1,9 @@
 # Natural Language API integrated with Ideamart SMS API 
 
+Scenario:
+	Alberto is a Restaurant owner who wants to get a feedback from the customers to increase his sales and quality. He decided to contact ideamart team to develop an Ideamart Application plugged with google Natural Language API. With the feedback he grasped he changed his way according to customer satisfaction which increased his revenue by a tremendous amount.
 
-In three simple steps You can create a similar application of your choice:
+In three simple steps You also can create a similar application :
 
 1.Provisioning Ideamart Application
 
@@ -9,7 +11,7 @@ In three simple steps You can create a similar application of your choice:
 	Continue onto Ideapro
 	Create an Application
 	Fill in the form for SMS API and send for approval
-	For Refference check the following Youtube Video : 
+	For Reference check the following Youtube Video : 
 ##### [IdeaPro - App provisioning](https://www.youtube.com/watch?v=zpgOrigLA70&t=457s)
 	
 2.Creating Google console Project For NLP
@@ -24,7 +26,7 @@ In three simple steps You can create a similar application of your choice:
 	Create an API key and copy the key in a safe place
 	
 
-3.Editing the code according to your choice
+3.Editing the test.php file according to your choice
 
 	Get into the test.php file
 	Initialize Application Id and password
@@ -42,6 +44,8 @@ https://www.facebook.com/groups/ideamartlk/
 https://twitter.com/ideamartLK
 
 https://github.com/ideamart/
+
+https://www.facebook.com/ideamartlk/
 
 
 # Happy Coding
