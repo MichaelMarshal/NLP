@@ -27,7 +27,7 @@ In three simple steps You can create a similar application of your choice:
 
 	Get into the test.php file
 	Initialize Application Id and password
-	In the URL replace the key in the $URL variable
+	In the URL replace the key in the <key> area
 	
 	Thats it change the way you want 
 	

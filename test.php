@@ -43,7 +43,7 @@ try{
 
         $boradmsg = substr($content,9);
 
-        $url = "https://language.googleapis.com/v1/documents:analyzeSentiment?key=AIzaSyAEn7W1BlYLLvr9Tv6ryJt2rxvpM2U6wtk";
+        $url = "https://language.googleapis.com/v1/documents:analyzeSentiment?key=<key>";
 
         $ch = curl_init($url);
         $json=array("encodingType"=> "UTF8", "document"=> array("type"=> "PLAIN_TEXT", "content"=> $boradmsg));
