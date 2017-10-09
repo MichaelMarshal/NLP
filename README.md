@@ -5,11 +5,11 @@ In three simple steps You can create a similar application of your choice:
 
 1.Provisioning Ideamart Application
 
-	Visit Ideamart.io Login to your Mobile Number
+	Visit Ideamart.io Login to your ideamart account using your Mobile Number
 	Continue onto Ideapro
 	Create an Application
-	Fill in the form and send for approval
-	For Refference check this Youtube Video : https://www.youtube.com/watch?v=zpgOrigLA70&t=457s
+	Fill in the form for SMS API and send for approval
+	For Refference check this Youtube Video : [IdeaPro - App provisioning](https://www.youtube.com/watch?v=zpgOrigLA70&t=457s)
 	
 2.Creating Google console Project For NLP
 

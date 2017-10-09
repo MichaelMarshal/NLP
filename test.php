@@ -69,7 +69,7 @@ try{
             $sender->sendMessage("We are happy to have you",$address);
         }elseif ($emotion<-0.25){
             $Sadcount++;
-            $sender->sendMessage("Please contact Shafraz Rahim to get more comfortable with us",$address);
+            $sender->sendMessage("Oops! We will improve the quality of the food.",$address);
         }
 
 
@@ -79,7 +79,7 @@ try{
 
         error_log("Message received ".$content);
 
-        $sender->sendMessage("Thanks".$second,$address);
+        $sender->sendMessage("Oops! Check the format. It should be SHOP<space>food<space>and enter your feeling about the food.".$second,$address);
 
     }
 
