@@ -66,7 +66,7 @@ try{
             $sender->sendMessage("Please come again",$address);
         }elseif ($emotion<0.25&&$emotion>-0.25){
             $Shapecount++;
-            $sender->sendMessage("We are happy to have you",$address);
+            $sender->sendMessage("We are happy to have you, please come again",$address);
         }elseif ($emotion<-0.25){
             $Sadcount++;
             $sender->sendMessage("Oops! We will improve the quality of the food.",$address);
