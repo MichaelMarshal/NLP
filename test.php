@@ -63,7 +63,7 @@ try{
 
         if($emotion>0.25){
             $Happycount++;
-            $sender->sendMessage("Please come again",$address);
+            $sender->sendMessage("Please come again and let the word spread",$address);
         }elseif ($emotion<0.25&&$emotion>-0.25){
             $Shapecount++;
             $sender->sendMessage("We are happy to have you",$address);
