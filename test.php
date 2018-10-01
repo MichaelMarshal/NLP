@@ -89,6 +89,7 @@ try{
 
 }catch (SMSServiceException $e){
     error_log("Passed Exception-not working ".$e);
+    $sender->sendMessage("Oops! something went wrong in the server side make sure you complain to them!",$address);
 }
 
 
