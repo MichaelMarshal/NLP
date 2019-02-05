@@ -1,0 +1,378 @@
+{
+  "poi": [
+    {
+      "id": 1,
+      "title": "Tower of London",
+      "description": "The Tower of London, officially Her Majesty's Royal Palace and Fortress of the Tower of London, is a historic castle located on the north bank of the River Thames in central London.",
+      "img": "./img/poi/TowerOfLondon.jpg",
+      "img2": "./img/poi/TowerOfLondon.jpg",
+      "favourite": true,
+      "lat": 51.5081,
+      "lang": -0.0759
+    },
+    {
+      "id": 2,
+      "title": "The Coca-Cola London Eye",
+      "description": "The London Eye is a cantilevered observation wheel on the South Bank of the River Thames in London. It is Europe's tallest cantilevered observation wheel, is the most popular paid tourist attraction in the United Kingdom with over 3.75 million visitors annually, and has made many appearances in popular culture.",
+      "img": "./img/poi/CocaColaLondonEye.jpg",
+      "img2": "./img/poi/CocaColaLondonEye.jpg",
+      "favourite": false,
+      "lat": 51.5033,
+      "lang": -0.1195
+    },
+    {
+      "id": 3,
+      "title": "Buckingham Palace",
+      "description": "Buckingham Palace is the London residence and administrative headquarters of the monarch of the United Kingdom. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality. It has been a focal point for the British people at times of national rejoicing and mourning.",
+      "img": "./img/poi/buckingham-2.jpg",
+      "img2": "./img/poi/buckingham.jpg",
+      "favourite": false,
+      "lat": 51.5014,
+      "lang": -0.1419
+    },
+    {
+      "id": 4,
+      "title": "Fitzwilliam Museum",
+      "description": "Recently voted the East of England's most popular free attraction, you can visit this spectacular building - and see the more than half a million artworks in its collection - for nothing! The Trumpington Street museum contains some remarkable collections from the ancient world. A very good option for a rainy day.",
+      "img": "./img/poi/FitzwilliamMuseum.jpg",
+      "img2": "./img/poi/FitzwilliamMuseum.jpg",
+      "favourite": true,
+      "lat": 52.1999,
+      "lang": 0.12
+    },
+    {
+      "id": 5,
+      "title": "Cambridge University Botanical Garden",
+      "description": " More than 8,000 different plant species are displayed in 40 acres of beautiful landscape in the city centre. It's the perfect spot for a picnic or a stroll and the attraction includes a lake, glasshouses, chronological bed, rock gardens and a collection of mature trees. It's only a short walk from the station and the city centre.",
+      "img": "./img/poi/CambridgeBotanical.jpg",
+      "img2": "./img/poi/CambridgeBotanical.jpg",
+      "favourite": true,
+      "lat": 52.1935,
+      "lang": 0.1258
+    },
+    {
+      "id": 6,
+      "title": "Cambridge University Colleges",
+      "description": "Cambridge has 31 colleges, of which three, Murray Edwards, Newnham and Lucy Cavendish, admit women only. The other colleges are mixed, though most were originally all-male. Darwin was the first college to admit both men and women, while Churchill, Clare, and King's were the first previously all-male colleges to admit female undergraduates, in 1972. Magdalene became the last all-male college to accept women, in 1988.[59] Clare Hall and Darwin admit only postgraduates, and Hughes Hall, Lucy Cavendish, St Edmund's and Wolfson admit only mature (i.e. 21 years or older on date of matriculation) students, encompassing both undergraduate and graduate students. All other colleges admit both undergraduate and postgraduate students with no age restrictions.",
+      "img": "./img/poi/CambridgeCollege.jpg",
+      "img2": "./img/poi/CambridgeCollege.jpg",
+      "favourite": true,
+      "lat": 52.2043,
+      "lang": 0.1149
+    },
+    {
+      "id": 7,
+      "title": "Whitby Abbey",
+      "description": "Any visitor to the seaside town of Whitby should climb up to the eerie ruins of the abbey that overlooks the town. There’s a small charge to enter the 13th-century remains, but it’s worth it to soak up the atmosphere that inspired the story of Dracula.",
+      "img": "./img/poi/WhitbyAbbey.jpg",
+      "img2": "./img/poi/WhitbyAbbey.jpg",
+      "favourite": false,
+      "lat": 54.4883,
+      "lang": -0.6079
+    },
+    {
+      "id": 8,
+      "title": "White Scar Cave",
+      "description": "The longest show caves in Britain aren’t for the claustrophobic, as you’ll have to crawl and squeeze through narrow gaps to admire the waterfalls, stalagmites, stalactites and gigantic caverns that lurk inside.",
+      "img": "./img/poi/WhiteScarCave.jpg",
+      "img2": "./img/poi/WhiteScarCave.jpg",
+      "favourite": false,
+      "lat": 54.1656,
+      "lang": -2.4417
+    },
+    {
+      "id": 9,
+      "title": "Yorkshire Three Peaks",
+      "description": "Whether you decide to take on the Yorkshire Three Peaks challenge or simply pick one mountain to scale, a visit to Yorkshire isn’t complete without summiting either Ingleborough, Whernside or Pen-y-Ghent.",
+      "img": "./img/poi/YorkshireThreePeaks.jpg",
+      "img2": "./img/poi/YorkshireThreePeaks.jpg",
+      "favourite": false,
+      "lat": 54.176,
+      "lang": -2.379
+    },
+    {
+      "id": 10,
+      "title": "Bolton Abbey",
+      "description": "The ruins of the Augustinian monastery are open to the public to wander around and explore. The surrounding area offers beautiful scenery for relaxing walks through the woods and by the river.",
+      "img": "./img/poi/BoltonAbbey.jpg",
+      "img2": "./img/poi/BoltonAbbey.jpg",
+      "favourite": false,
+      "lat": 53.9879,
+      "lang": -1.9135
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Changing the Guard at Buckingham Palace",
+      "description": "Changing the Guard, also known as Guard Mounting, takes place outside Buckingham Palace from 10.45am and lasts around 45 minutes, with the actual handover taking place at 11am. The Buckingham Palace Old Guard forms up in the palace’s forecourt from 10.30am and is joined by the St James’s Palace Old Guard at around 10.45am. The New Guard then arrives from Wellington Barracks and takes over the responsibilities of the Old Guard in a formal ceremony accompanied by music.",
+      "img": "./img/events/LondonEvent1.jpg",
+      "img2": "./img/events/LondonEvent1.jpg",
+      "favourite": false,
+      "lat": 51.5014,
+      "lang": -0.1419,
+      "time": "10.45am",
+      "venue": "Buckingham Palace"
+    },
+    {
+      "id": 2,
+      "title": "Hogwarts in the Snow at Warner Bros. Studio Tour London",
+      "description": "Winter has arrived at Hogwarts. Glittering Christmas trees line the Great Hall and a replica festive feast including flaming Christmas puddings is laid out on the long tables; while the top section of the hall is transformed for the Yule Ball with snow, icicles and an orchestra of magical instruments. Around the rest of the studio, special-effect fires roar in the fireplaces, the Gryffindor common room is filled with Christmas treats and the detailed Hogwarts castle model is covered in a special blanket of snow.",
+      "img": "./img/events/LondonEvent2.jpg",
+      "img2": "./img/events/LondonEvent2.jpg",
+      "favourite": true,
+      "lat": 51.6904,
+      "lang": -0.4176,
+      "time": "8.00am",
+      "venue": "Warner Bros. Studio, London"
+    },
+    {
+      "id": 3,
+      "title": "The Undetection of the New: An Overview of Machine Learning Limitations and Their Social Impact",
+      "description": "All machine learning systems are basically a sophisticated version of “perception” that is a form of pattern recognition that can be extended also to non-visual datasets. However, what machine learning in general calculates is not an exact pattern but a statistical distribution of it. The statistical models of machine learning bring about a new breed of errors and limits yet to be properly understood and discussed in their impact on the collective body and society (such as bias amplification, category reduction, taxonomy reduction, diversity loss, style normalization, regression to the mean, and more). The paper tries to address the technopolitical limits of machine learning providing an overview of the social impact of its logical limitations.",
+      "img": "./img/events/CambridgeEvent.jpg",
+      "img2": "./img/events/CambridgeEvent.jpg",
+      "favourite": false,
+      "lat": 52.2043,
+      "lang": 0.1149,
+      "time": "9.00am",
+      "venue": "Cambridge University"
+    },
+    {
+      "id": 4,
+      "title": "Print Exhibition",
+      "description": "For the past 20 years Leeds has been proud to display a collection of etchings by renowned printmaker Karolina Larusdottir. As she prepares to celebrate her 75th birthday next year we celebrate her life and works in a special solo print exhibition. Her upbringing in Iceland and her Grandfather’s hotel are themes explored in her art works; glimpses of this busy environment, scenes of chambermaids, chefs and waitresses, interspersed with imaginary floating angels.",
+      "img": "./img/events/YorkshireEvent.jpg",
+      "img2": "./img/events/YorkshireEvent.jpg",
+      "favourite": true,
+      "lat": 53.8,
+      "lang": -1.5484,
+      "time": "10.00am",
+      "venue": "The Craft Centre and Design Gallery, City Art Gallery, The Headrow, Leeds, West Yorkshire, LS1 3AB"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "UK snow radar: We could see SNOW in London this month as BIG FREEZE sets in",
+      "description": "BRITAIN is forecast to have a fairly mild weekend, but soon after a big freeze is due to set in, with bookies slashing odds of snow hitting the capital.The UK is experiencing similar weather patterns to those which preceded last year’s Beast From the East, leading some to predict a repeat of the snow and icy conditions which claimed 17 lives. Already this winter we’ve seen temperatures swing between icy cold and unseasonably warm. Now, the Met Office has reported a “sudden stratospheric warming” which could see the Beast from the East return.",
+      "img": "./img/news/LondonNews.jpg",
+      "img2": "./img/news/LondonNews.jpg",
+      "favourite": false,
+      "lat": 51.5074,
+      "lang": -0.1278
+    },
+    {
+      "id": 2,
+      "title": "France’s Yellow Vest fury spreads to Britain as 1000s bring chaos to streets today",
+      "description": "THOUSANDS of British Yellow Vest protesters will swarm on London and Sheffield today as French-inspired anti-establishment anger spills out onto the capital’s streets. The left wing Yellow Vest protest is believed to be broadly about demanding a general election and an end to austerity. But Brexit is expected to figure highly among the vague and slightly confused ambitions of the marchers following in the footsteps of French protesters who also donned yellow vests in widespread demonstrations against President Emmanuel Macron. Today’s “Britain is Broken” march will see as many as 10,000 people on the streets according to the event’s official Facebook page.",
+      "img": "./img/news/LondonNews2.jpg",
+      "img2": "./img/news/LondonNews2.jpg",
+      "favourite": true,
+      "lat": 51.5074,
+      "lang": -0.1278
+    },
+    {
+      "id": 3,
+      "title": "Winter storm bringing SIX INCHES of snow and extreme temperatures to hit East Anglia",
+      "description": "As parts of Europe suffer extreme snowfall, Britain has been basking in mild climes.However, according to the Met Office - it could be our turn for some monster weather, as a winter storm threatens to blanket parts of the country - including East Anglia - with up to six inches of snow. This storm has been labelled as potentially life threatening and is due to hit the UK in just over a weeks time, with heavy snow and extreme cold, raising fears of travel chaos that could impact millions of Brits. And it's not just up in Scotland, this could affect us here in Cambridgeshire as the storm may sweep down to East Anglia.",
+      "img": "./img/news/CambridgeNews.jpg",
+      "img2": "./img/news/CambridgeNews.jpg",
+      "favourite": false,
+      "lat": 51.5074,
+      "lang": 0.1278
+    },
+    {
+      "id": 4,
+      "title": "Hull weather as temperatures drop across East Yorkshire",
+      "description": "By the middle of the week, the temperature will feel like freezing according to weather forecasters. While Monday is predicted to be mild for this time of year, with highs of around 11C expected across the city, as the week moves on it is expected to take a chiller turn. Tuesday is likely to provide highs of 7C that will feel more like 2C when the chill of the wind is taken into account. However the worst of the icy grip is likely to take hold on Wednesday when air temperatures of between 4C and 5C combine to make it feel more like freezing. At present, there is no rain in the forecast for the worst of the cold spell which could have made the situation worse.",
+      "img": "./img/news/YorkshireNews.jpg",
+      "img2": "./img/news/YorkshireNews.jpg",
+      "favourite": false,
+      "lat": 53.7306,
+      "lang": -1.2345
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Sebastian",
+      "username": "Eschweiler",
+      "password": "helloworld"
+    },
+    {
+      "id": 2,
+      "fullname": "Steve",
+      "username": "Palmer",
+      "password": "steve@codingthesmartway.com"
+    },
+    {
+      "id": 3,
+      "fullname": "Ann",
+      "username": "Smith",
+      "password": "ann@codingthesmartway.com"
+    },
+    {
+      "fullname": "Ibrahim",
+      "username": "FreezLone",
+      "password": "topspeed",
+      "id": 4
+    },
+    {
+      "fullname": "Keshav Kumaresan",
+      "username": "King",
+      "password": "123",
+      "id": 5
+    }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "fullname": "Michael Marshal",
+      "description": "Michael is a dedicated software engineering student who works till the task given at hand is accomplished. Michael having travelled frequently has a lot of travel knowledge to exploit along with his technical skills to help you out here at Aventura",
+      "officeLat": 6.865155,
+      "officeLong": 79.8598833,
+      "job": "Student(Software Engineer)",
+      "favourite": true,
+      "age": 22,
+      "image": "michael.jpg"
+    },
+    {
+      "id": 2,
+      "fullname": "Keshav Kumaresan",
+      "description": "Keshav is also a dedicated software engineering student who tends to achieve the best in what is possible. His undying curiosity leads him to many accomplishments and he doesnt seem like stopping! His expertise in the technical area will be a guaranteed asset to you here at Aventura.",
+      "officeLat": 6.865155,
+      "officeLong": 79.8598833,
+      "job": "Student(Software Engineer)",
+      "favourite": true,
+      "age": 20,
+      "image": "keshav.jpg"
+    },
+    {
+      "id": 3,
+      "fullname": "Andrew Joeshanth",
+      "description": "Andrew is a talented software engineering students who puts the needs of the others above his own. His incredible profficiency in the technical side immensly helps accomplish tasks until they are finished, successful and perfect. What better way is there to complete tasks here at Aventura?",
+      "officeLat": 6.865155,
+      "officeLong": 79.8598833,
+      "job": "Student(Software Engineer)",
+      "favourite": true,
+      "age": 21,
+      "image": "andrew.jpg"
+    },
+    {
+      "id": 4,
+      "fullname": "Ibrahim Naazir",
+      "description": "Ibrahim is a software engineering student in his final year at Informatics Institute of Technology. His dedication powered through the work done at IIT and his placement company has helped boost his technical skills to a level that will help suit your travelling needs.",
+      "officeLat": 6.865155,
+      "officeLong": 79.8598833,
+      "job": "Student(Software Engineer)",
+      "favourite": false,
+      "age": 19,
+      "image": "ibrahim.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "id": 1,
+      "name": "London-Cambridge-Yorkshire Tour",
+      "description": "Welcome to your tour of Great Britain! Today, you will fill your lungs with fresh, English countryside air, as you depart the city of London, and head to where the grass is greener. Arriving in Cambridge, your first adventure will have you punting along the river in traditional style, taking in the stunning scenery and epic, historical buildings in the most relaxing way. Simply wonderful! The afternoon sees you continuing your rural journey towards York, a mecca for history buffs and lovers of fine architecture and culture. Your walking tour offers fascinating insights, stories and history of the city. Tonight, you will enjoy dinner in a traditional British pub - plenty of choices on the menu, including English favourites such as fish and chips or bangers and mash (delicious sausages and creamy mashed potatoes).",
+      "time": "Monday 21st Jan 2019 at 5:00PM",
+      "price": 350,
+      "starting": "London, UK",
+      "startCordX": 51.5074,
+      "startCordY": -0.1278,
+      "destination": "Yorkshire, UK",
+      "waypoints": [
+        {
+          "id": 1,
+          "name": "Cambridge, UK"
+        }
+      ],
+      "pictures": [
+        {
+          "id": 1,
+          "imageName": "london.jpg",
+          "caption": "London"
+        },
+        {
+          "id": 2,
+          "imageName": "cambridge.jpg",
+          "caption": "Cambridge"
+        },
+        {
+          "id": 3,
+          "imageName": "yorkshire.jpg",
+          "caption": "Yorkshire"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Hadrian's Wall-Jedburgh-Edinburgh Tour",
+      "description": "Get ready to experience places of historical battles, religious significance, ancient architecture and royal ruins. Your first stop of the day is the iconic Hadrian’s Wall. Built by hand in 122 AD, its creation is extremely significant in the history of Great Britain, and it is one of the most visited cultural landmarks in the UK. Not too far away lies the border town of Jedburgh. Famed for its links to royalty and historical warfare, you will have an opportunity to explore the city and take in the amazing architecture, which speak for populations passed. The Jedburgh Abbey ruins are incredible, and a visit is highly recommended. As you journey through Scotland, relax and enjoy the beautiful landscape drifting past. The capital city is waiting, and your Expat Explore tour leader will introduce you to Edinburgh on an evening driving and orientation walking tour.",
+      "time": "Monday 28th Jan 2019 at 3:00PM",
+      "price": 450,
+      "starting": "Hadrian's Wall, Brampton, UK",
+      "startCordX": 54.9899,
+      "startCordY": -2.6017,
+      "destination": "Edinburgh, UK",
+      "waypoints": [
+        {
+          "id": 1,
+          "name": "Jedburgh, UK"
+        }
+      ],
+      "pictures": [
+        {
+          "id": 1,
+          "imageName": "hadrians.jpg",
+          "caption": "Hadrian's Wall"
+        },
+        {
+          "id": 2,
+          "imageName": "jedburgh.jpg",
+          "caption": "Jedburgh Abbey"
+        },
+        {
+          "id": 3,
+          "imageName": "edinburgh.jpg",
+          "caption": "Edinburgh Castle"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bath - Stonehenge - London Tour",
+      "description": "The road from Wales to London is littered with history, stunning scenery and architectural delights. First stop for the day is Bath – a UNESCO World Heritage Site featuring some of the finest architecture in Europe. Join us on an orientation tour of the town, and learn about the historical significance of the region, including the natural hot springs that supply the Roman baths - visited by over 1 million international tourists every year! Continuing on the last legs of your journey, you have an optional excursion that could have you unravelling one of the worlds’ greatest mysteries. Stonehenge - need we say more? You have the opportunity to witness an ancient and awe-inspiring structure, which has baffled scientists, tourists and historians for centuries. As you board your Expat Explore coach for the last time on your Great Britain tour, take this chance to exchange contact details and share photos with new friends and fellow travellers, before you alight at your last stop in London.",
+      "time": "Wednesday 6th February 2019 at 7:00AM",
+      "price": 400,
+      "starting": "Bath, UK",
+      "startCordX": 51.3811,
+      "startCordY": -2.359,
+      "destination": "London, UK",
+      "waypoints": [
+        {
+          "id": 1,
+          "name": "Stonehenge, Amesbury, Salisbury, UK"
+        }
+      ],
+      "pictures": [
+        {
+          "id": 1,
+          "imageName": "stonehenge.jpg",
+          "caption": "Stonehenge"
+        },
+        {
+          "id": 2,
+          "imageName": "Bath.jpg",
+          "caption": "Roman Baths"
+        },
+        {
+          "id": 3,
+          "imageName": "london.jpg",
+          "caption": "London"
+        }
+      ]
+    }
+  ]
+}
